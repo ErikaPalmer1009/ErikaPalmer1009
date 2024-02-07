@@ -1,4 +1,4 @@
-<h1>Hi, I'm Erika, an <a href="https://linkedin.com/in/erika-bell-519225226">IT Support agent</a>☺</h1>
+<h1>Hi, I'm Erika, an <a href="https://www.linkedin.com/in/erika-palmer-67354a2b3/">IT Support agent</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/erika-palmer-67354a2b3/
