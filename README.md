@@ -6,6 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ErikaPalmer1009/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ErikaPalmer1009/osTicket-post-instal)
 
+- <b>Microsoft Azure</b>
+- [Constructing On-site Active Directory with Microsoft Azure virtural machines](https://github.com/ErikaPalmer1009/active-directory)
 <h2>🤳Connect with me:</h2>
 
 
